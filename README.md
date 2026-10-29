@@ -1,7 +1,7 @@
 # Hi, I'm Matteo 👋
 
 Master's student in **Computer Engineering** at the **University of Naples Federico II**.
-I'm interested in distributed systems, software design, and building well-structured applications, from requirements analysis to implementation.
+I'm interested in Network security, distributed systems, software design, and building well-structured applications, from requirements analysis to implementation.
 
 ## 🛠️ Tech I work with
 
@@ -10,6 +10,11 @@ I'm interested in distributed systems, software design, and building well-struct
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=google&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 - **Languages:** Python,Java,C,C++,
 - **Backend & communication:** Flask, gRPC, STOMP
